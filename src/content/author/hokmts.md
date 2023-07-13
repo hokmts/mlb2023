@@ -7,7 +7,7 @@ twitter: https://twitter.com/hokmtsz
 github: https://github.com/hokmts
 ---
 
-I was born in Fukuoka,Japan and now live in Chiba,japan. After working in the IT department of a financial institution, I am working in an IT company.
+I was born in Fukuoka,Japan and now live in Chiba,Japan. After working in the IT department of a financial institution, I am working in an IT company.
 
 Love the Web, and Have fun! 
 

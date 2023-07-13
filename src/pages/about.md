@@ -8,7 +8,7 @@ description: "Welcome to My personal website"
 
 Welcome to My personal website!  
 
-In my free time, I use R, Scrapy, and R-studio to collect and analyze baseball data. In the future, I would like to work on IT in two locations in Fukuoka,Japan and Chiba,japan. I hope that someday I can relax and immerse myself in my favorite IT in an environment surrounded by nature.   
+In my free time, I use R, Scrapy, and R-studio to collect and analyze baseball data. In the future, I would like to work on IT in two locations in Fukuoka and Chiba,Japan. I hope that someday I can relax and immerse myself in my favorite IT in an environment surrounded by nature.   
 I would like to increase the number of pages other than baseball.
 
 [Disclaimer]   

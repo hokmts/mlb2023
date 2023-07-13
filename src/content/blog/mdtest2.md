@@ -1,5 +1,6 @@
 ---
 title: "pitching demo xx"
+topics: ["player-pitching"]
 authors:
   - hokmts
 description: "pitching demo"

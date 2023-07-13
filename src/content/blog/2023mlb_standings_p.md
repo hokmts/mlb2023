@@ -1,6 +1,6 @@
 ---
 title: "pitching demo ggplot"
-topics: ["mlb"]
+topics: ["league-pitching"]
 authors:
   - eddy-vinck
 description: "pitching ggplot"
