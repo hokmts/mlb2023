@@ -7,10 +7,13 @@ description: "MLB team-standings,run_differential,ops,era"
 pubDate: "Jul 12 2023"
 heroImage: ""
 ---
-
+Hello!  
+I tried to summarize the team results until the first half of the mlb all-star game. -Part 1-
 
 #### mlb\_standings
-
+Comparing the Pythagoras winning rate and the actual winning rate,
+Are the Miami Marlins (as well as the Baltimore Orioles) playing well and playing close matches?
+A closer look at the results may reveal something.
 <table>
 <colgroup>
 <col style="width: 17%" />
@@ -668,16 +671,20 @@ heroImage: ""
 </table>
 
 #### run\_differential
-
+I made a graph of the difference between points scored and points conceded. The destructive power of the Tampa Bay Rays, Texas Rangers, and Atlanta Braves is tremendous even when compared to other teams.
+Oakland Athletics. . .
 <img src="/2023mlb_standings_files/figure-markdown_strict/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 
 #### runs\_scored,runs\_allowed per\_games
+I created a scatter plot for each team based on the average value of points scored and points conceded per game. There are many teams in the range of 4-5 points in both the American League and the National League, but I think the characteristics of the winning team and the losing team are clearly visible.  
 
 <img src="/2023mlb_standings_files/figure-markdown_strict/unnamed-chunk-5-1.png" style="display: block; margin: auto;" /><img src="/2023mlb_standings_files/figure-markdown_strict/unnamed-chunk-5-2.png" style="display: block; margin: auto;" />
 
 #### ops / era
+A scatterplot of ops and era to see the balance between pitching and hitting power for each team. The American League has a good era compared to the National League, but a team with low ops (<0.7) stands out. The National League is characterized by many teams with ops in the range of 0.7<0.8 and era in the range of 4<5.
 
 <img src="/2023mlb_standings_files/figure-markdown_strict/unnamed-chunk-7-1.png" style="display: block; margin: auto;" /><img src="/2023mlb_standings_files/figure-markdown_strict/unnamed-chunk-7-2.png" style="display: block; margin: auto;" />
+
 
 The MLB data used this time is obtained from the following website.  
 <https://baseballsavant.mlb.com> <https://www.baseball-reference.com>
